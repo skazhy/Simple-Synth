@@ -1,0 +1,8 @@
+A simple synth / sequencer written in Processing.
+See live example here: http://openprocessing.org/?visualID=8705
+
+You need minim library to run the sounds.
+
+You can modify it by changing the sound files in the data directory, but keep the original filenames, otherwise sounds won't work!
+
+-skazhy
